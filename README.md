@@ -39,11 +39,8 @@ I was able to find relation between price and school feature such as
 - average school rating 
 - average school size
 
-#### Outline of project
-
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+#### Link to Notebook
+- https://github.com/nish8935/capstone_module_20/blob/main/Capstone-Copy1.ipynb
 
 
 ##### Contact and Further Information
